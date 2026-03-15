@@ -35,7 +35,7 @@ export default function Hero() {
         >
           Capturing Moments, <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 via-pink-400 to-orange-400">
-            Creating Masterpieces.
+            ANJAY
           </span>
         </motion.h1>
 
